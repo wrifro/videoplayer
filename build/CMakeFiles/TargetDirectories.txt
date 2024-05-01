@@ -1,0 +1,14 @@
+C:/Users/wright.frost/Desktop/videoplayer/build/CMakeFiles/video-app.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/CMakeFiles/INSTALL.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/glfw/CMakeFiles/uninstall.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/glfw/CMakeFiles/INSTALL.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/glfw/src/CMakeFiles/glfw.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/glfw/docs/CMakeFiles/docs.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/glfw/docs/CMakeFiles/INSTALL.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/FFmpeg/CMakeFiles/INSTALL.dir
+C:/Users/wright.frost/Desktop/videoplayer/build/lib/FFmpeg/CMakeFiles/ALL_BUILD.dir
