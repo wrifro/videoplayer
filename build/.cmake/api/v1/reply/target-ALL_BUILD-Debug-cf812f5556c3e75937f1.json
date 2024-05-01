@@ -17,13 +17,13 @@
 	"dependencies" : 
 	[
 		{
-			"id" : "video-app::@6890427a1f51a3e7e1df"
-		},
-		{
 			"id" : "glfw::@17f284a5fc0809a54549"
 		},
 		{
 			"id" : "docs::@d0e396ec2d197a0e2deb"
+		},
+		{
+			"id" : "video-app::@6890427a1f51a3e7e1df"
 		},
 		{
 			"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df"

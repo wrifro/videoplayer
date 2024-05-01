@@ -71,7 +71,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "AVCODEC_INCLUDE_DIR-NOTFOUND"
+			"value" : "C:/ffmpeg-7.0"
 		},
 		{
 			"name" : "AVCODEC_LIBAV_INCLUDEDIR",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "AVDEVICE_INCLUDE_DIR-NOTFOUND"
+			"value" : "C:/ffmpeg-7.0"
 		},
 		{
 			"name" : "AVDEVICE_LIBRARY",
@@ -407,7 +407,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "AVFILTER_INCLUDE_DIR-NOTFOUND"
+			"value" : "C:/ffmpeg-7.0"
 		},
 		{
 			"name" : "AVFILTER_LIBRARY",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "AVFORMAT_INCLUDE_DIR-NOTFOUND"
+			"value" : "C:/ffmpeg-7.0"
 		},
 		{
 			"name" : "AVFORMAT_LIBRARY",
@@ -467,7 +467,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "AVUTIL_INCLUDE_DIR-NOTFOUND"
+			"value" : "C:/ffmpeg-7.0"
 		},
 		{
 			"name" : "AVUTIL_LIBRARY",
@@ -4295,7 +4295,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "SWRESAMPLE_INCLUDE_DIR-NOTFOUND"
+			"value" : "C:/ffmpeg-7.0"
 		},
 		{
 			"name" : "SWRESAMPLE_LIBRARY",
@@ -4308,6 +4308,30 @@
 			],
 			"type" : "FILEPATH",
 			"value" : "SWRESAMPLE_LIBRARY-NOTFOUND"
+		},
+		{
+			"name" : "SWSCALE_INCLUDE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a file."
+				}
+			],
+			"type" : "PATH",
+			"value" : "C:/ffmpeg-7.0"
+		},
+		{
+			"name" : "SWSCALE_LIBRARY",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "SWSCALE_LIBRARY-NOTFOUND"
 		},
 		{
 			"name" : "USE_MSVC_RUNTIME_LIBRARY_DLL",
